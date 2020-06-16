@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">259601114558-j0tse83670p8aqj5ruiva5d1rgvfrk2a.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://anonymous-authentication-fc373.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">259601114558</string>
+    <string name="google_api_key" translatable="false">AIzaSyCySMqj_OwBkhq2Cr214lZ_I5che6unozg</string>
+    <string name="google_app_id" translatable="false">1:259601114558:android:e39de52ff103c02eb5c5ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCySMqj_OwBkhq2Cr214lZ_I5che6unozg</string>
+    <string name="google_storage_bucket" translatable="false">anonymous-authentication-fc373.appspot.com</string>
+    <string name="project_id" translatable="false">anonymous-authentication-fc373</string>
+</resources>
