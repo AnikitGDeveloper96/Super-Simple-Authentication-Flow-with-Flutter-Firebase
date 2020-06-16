@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "259601114558",
+    "firebase_url": "https://anonymous-authentication-fc373.firebaseio.com",
+    "project_id": "anonymous-authentication-fc373",
+    "storage_bucket": "anonymous-authentication-fc373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259601114558:android:e39de52ff103c02eb5c5ef",
+        "android_client_info": {
+          "package_name": "com.example.anonymous_flutter_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259601114558-1n9doos7rbvfglqsvouefuv5rqo1va90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anonymous_flutter_authentication",
+            "certificate_hash": "908e7c1da1cd22a2799e29cadb1ac960036c7799"
+          }
+        },
+        {
+          "client_id": "259601114558-j0tse83670p8aqj5ruiva5d1rgvfrk2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySMqj_OwBkhq2Cr214lZ_I5che6unozg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259601114558-j0tse83670p8aqj5ruiva5d1rgvfrk2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
